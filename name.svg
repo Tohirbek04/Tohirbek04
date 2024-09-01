@@ -11,48 +11,37 @@
           0%, 100% { transform: scale(1); }
           50% { transform: scale(1.1); }
         }
-        @keyframes rotate {
-          0% { transform: rotate(0deg); }
-          100% { transform: rotate(360deg); }
+        @keyframes float {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-20px); }
         }
         h1 {
           font-family: 'Inter', sans-serif;
           margin: 0;
-          font-size: 3.5em;
+          font-size: 4em;
           font-weight: 900;
           letter-spacing: -.05em;
           text-align: center;
-          background: -webkit-linear-gradient(right,#00b4db,#0083b0);
-          background: linear-gradient(270deg,#00b4db,#0083b0);
+          background: -webkit-linear-gradient(right, #00b4db, #0083b0);
+          background: linear-gradient(270deg, #00b4db, #0083b0);
           background-size: 200%;
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
-          animation: gradientText 3s ease infinite;
+          animation: gradientText 3s ease infinite, pulse 2s infinite;
         }
-        .icons {
-          display: flex;
-          justify-content: center;
-          align-items: center;
+        .subtitle {
+          font-family: 'Inter', sans-serif;
           margin-top: 20px;
-        }
-        .icon {
-          width: 60px;
-          height: 60px;
-          margin: 0 10px;
-          animation: pulse 2s infinite;
-        }
-        .rotate {
-          animation: rotate 3s linear infinite;
+          font-size: 2em;
+          font-weight: 700;
+          text-align: center;
+          color: #333;
+          animation: float 3s ease-in-out infinite;
         }
       </style>
       <h1>Tohirbek Ahmedov</h1>
-      <div class="icons">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" class="icon rotate" alt="GitHub Logo"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="icon" alt="Python Logo"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" class="icon rotate" alt="Docker Logo"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" class="icon" alt="Django Logo"/>
-      </div>
+      <div class="subtitle">Python Engineer & Tech Innovator</div>
     </div>
   </foreignObject>
 </svg>
