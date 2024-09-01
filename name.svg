@@ -1,50 +1,60 @@
-<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00b4db; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0083b0; stop-opacity:1" />
-    </linearGradient>
-    <style type="text/css">
-      @keyframes gradientText {
-        0% { fill: url(#gradient); }
-        50% { fill: url(#gradient); }
-        100% { fill: url(#gradient); }
-      }
-      @keyframes typing {
-        from { width: 0; }
-        to { width: 100%; }
-      }
-      @keyframes blink {
-        50% { border-color: transparent; }
-      }
-      .main-title {
-        font-family: 'Courier New', Courier, monospace;
-        font-size: 60px;
-        font-weight: bold;
-        fill: url(#gradient);
-        overflow: hidden;
-        border-right: .15em solid orange;
-        white-space: nowrap;
-        margin: 0 auto;
-        letter-spacing: .15em;
-        animation: 
-          gradientText 3s ease infinite, 
-          typing 4s steps(40, end) 1s 1 normal both,
-          blink .75s step-end infinite;
-      }
-      .subtitle {
-        font-size: 30px;
-        fill: #333;
-        font-family: 'Arial', sans-serif;
-        animation: gradientText 3s ease infinite;
-        animation-delay: 4.5s;
-      }
-    </style>
-  </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="main-title">
-    Tohirbek Ahmedov
-  </text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" class="subtitle">
-    Python Engineer & Tech Innovator
-  </text>
-</svg>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer Animation</title>
+</head>
+<body>
+    <svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+            <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" style="stop-color:#00b4db; stop-opacity:1" />
+                <stop offset="100%" style="stop-color:#0083b0; stop-opacity:1" />
+            </linearGradient>
+            <style type="text/css">
+                @keyframes gradientText {
+                    0% { fill: url(#gradient); }
+                    50% { fill: url(#gradient); }
+                    100% { fill: url(#gradient); }
+                }
+                @keyframes typing {
+                    from { width: 0; }
+                    to { width: 100%; }
+                }
+                @keyframes blink {
+                    50% { border-color: transparent; }
+                }
+                .main-title {
+                    font-family: 'Courier New', Courier, monospace;
+                    font-size: 60px;
+                    font-weight: bold;
+                    fill: url(#gradient);
+                    overflow: hidden;
+                    border-right: .15em solid orange;
+                    white-space: nowrap;
+                    margin: 0 auto;
+                    letter-spacing: .15em;
+                    animation: 
+                      gradientText 3s ease infinite, 
+                      typing 4s steps(40, end) 1s 1 normal both,
+                      blink .75s step-end infinite;
+                }
+                .subtitle {
+                    font-size: 30px;
+                    fill: #333;
+                    font-family: 'Arial', sans-serif;
+                    animation: gradientText 3s ease infinite;
+                    animation-delay: 4.5s;
+                }
+            </style>
+        </defs>
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="main-title">
+            Tohirbek Ahmedov
+        </text>
+        <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" class="subtitle">
+            Python Engineer & Tech Innovator
+        </text>
+    </svg>
+</body>
+</html>
