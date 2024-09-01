@@ -1,9 +1,9 @@
 <!-- Yuqori qism: Ahmedov Tohirbek zamonaviy animatsiyasi -->
 <div style="text-align: center; font-family: Arial, sans-serif;">
-  <h1 style="font-size: 3.5em; color: #306998; margin-top: 20px; animation: fadeIn 2s ease-in-out forwards;">Ahmedov Tohirbek</h1>
+  <h1 style="font-size: 3.5em; color: #306998; margin-top: 20px; opacity: 0; transform: translateY(20px); animation: fadeIn 2s ease-in-out forwards;">Ahmedov Tohirbek</h1>
   <p style="margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 120px; height: 120px; margin: 0 30px; animation: bounceIn 2s ease-in-out, spin 4s linear infinite;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 120px; height: 120px; margin: 0 30px; animation: bounceIn 2s ease-in-out, spin 4s linear infinite;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 120px; height: 120px; margin: 0 30px; animation: bounceIn 2s ease-in-out forwards, spin 4s linear infinite;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 120px; height: 120px; margin: 0 30px; animation: bounceIn 2s ease-in-out forwards, spin 4s linear infinite;">
   </p>
 </div>
 
@@ -29,16 +29,16 @@
 <!-- Texnologiyalar va vositalar animatsiyasi -->
 <h2 align="center" style="color: #FFD43B;">Technologies & Tools</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="Celery Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="Celery Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
 </p>
 
 <!-- Dinamik loyihalar -->
@@ -66,24 +66,5 @@
   </a>
 </p>
 
-<!-- Inline CSS Animations -->
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-
-  @keyframes bounceIn {
-    0%, 20%, 40%, 60%, 80%, 100% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.2);
-    }
-  }
-
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
+<!-- Inline CSS Animations (yozilgan qoidalardan foydalanilgan) -->
+<p style="display:none;">@keyframes fadeIn {from {opacity: 0; transform: translateY(20px);} to {opacity: 1; transform: translateY(0);}} @keyframes bounceIn {0%, 20%, 40%, 60%, 80%, 100% {transform: scale(1);} 50% {transform: scale(1.2);}} @keyframes spin {0% {transform: rotate(0deg);} 100% {transform: rotate(360deg);}}</p>
