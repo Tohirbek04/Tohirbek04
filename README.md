@@ -16,7 +16,7 @@
       transform: translateY(0px);
     }
     50% {
-      transform: translateY(-20px);
+      transform: translateY(-10px);
     }
     100% {
       transform: translateY(0px);
@@ -30,23 +30,23 @@
   }
 
   .header img {
-    width: 150px;
-    height: 150px;
-    margin: 0 20px;
+    width: 100px;
+    height: 100px;
+    margin: 0 15px;
     animation: float 3s ease-in-out infinite;
   }
 
   .header h1 {
-    font-size: 3.5em;
+    font-size: 3em;
     color: #306998;
     margin-top: 20px;
     animation: fadeInUp 2s ease-in-out;
   }
 
   .tech-logo {
-    width: 80px;
-    height: 80px;
-    margin: 20px;
+    width: 60px;
+    height: 60px;
+    margin: 15px;
     animation: float 4s ease-in-out infinite;
   }
 </style>
@@ -98,23 +98,4 @@
 <h2 align="center" style="color: #FFD43B;">Featured Projects</h2>
 <p align="center">
   <a href="https://github.com/Tohirbek04/Project1">
-    <img src="https://img.shields.io/badge/Project_1-AI_Chatbot-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Project 1 Badge" style="margin: 10px;">
-  </a>
-  <a href="https://github.com/Tohirbek04/Project2">
-    <img src="https://img.shields.io/badge/Project_2-Web_Scraper-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Project 2 Badge" style="margin: 10px;">
-  </a>
-</p>
-
-<!-- Ijtimoiy tarmoqlar va aloqa -->
-<h2 align="center" style="color: #FFD43B;">Let's Connect!</h2>
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="margin: 10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 10px;">
-  </a>
-  <a href="https://twitter.com/your-twitter-username">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="margin: 10px;">
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/Project_1-AI_Chatbot-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt=
