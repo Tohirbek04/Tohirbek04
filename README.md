@@ -1,32 +1,21 @@
-<!-- Yuqori qism: GitHub va Python Connection Animatsiyasi -->
+<!-- Yuqori qism: Ahmedov Tohirbek animatsiyasi -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="60">
+  <span style="font-size: 2.5em; color: #FFD43B;">Ahmedov Tohirbek</span>
+  <img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="60">
+</h1>
+
+<!-- Yuqori bo'lim: GitHub va Python Connection Animatsiyasi -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="120" height="120"/>
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Connection" width="120" height="120"/>
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" alt="Connection" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="120" height="120"/>
 </p>
-
-<!-- Yuqori bo'lim uchun animatsiyali sarlavha -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3o7aD6aJ7T9a3KeZ5u/giphy.gif" width="70"> 
-  Welcome to My GitHub Profile 
-  <img src="https://media.giphy.com/media/3o7aD6aJ7T9a3KeZ5u/giphy.gif" width="70">
-</h1>
 
 <!-- Men haqimda bo'limi -->
 <h2 align="center" style="color: #FFD43B;">About Me</h2>
 <p align="center" style="color: #306998;">
-  Hello! I'm Tohirbek, a passionate Python Developer with expertise in building efficient and scalable applications. I love to explore new technologies and continuously improve my skills.
-</p>
-
-<!-- Tajriba va malakalar -->
-<h2 align="center" style="color: #FFD43B;">My Skills</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  Hi, I'm Ahmedov Tohirbek, a Python Developer passionate about creating efficient and scalable applications. I love to explore new technologies and continuously improve my skills.
 </p>
 
 <!-- Zamonaviy jonli animatsiyalar -->
@@ -50,13 +39,18 @@
 <!-- Texnologiyalar va vositalar -->
 <h2 align="center" style="color: #FFD43B;">Technologies & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+</p>
+
+<!-- Dinamik texnologiya animatsiyalari -->
+<p align="center">
+  <img src="https://media.giphy.com/media/2kMiVJrS9o9dm/giphy.gif" alt="Technology Animation" width="600">
 </p>
 
 <!-- Dinamik loyihalar -->
@@ -84,7 +78,7 @@
   </a>
 </p>
 
-<!-- Dinamik python GIF -->
+<!-- Dinamik Python GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Coding" width="300">
 </p>
