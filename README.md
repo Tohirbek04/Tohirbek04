@@ -1,11 +1,37 @@
 <!-- Yuqori qism: Ahmedov Tohirbek zamonaviy animatsiyasi -->
-<div id="header" style="text-align: center; font-family: Arial, sans-serif;">
-  <h1 id="name" style="font-size: 3em; color: #306998; margin-top: 20px;">Ahmedov Tohirbek</h1>
+<div style="text-align: center; font-family: Arial, sans-serif;">
+  <h1 style="font-size: 3em; color: #306998; margin-top: 20px; animation: fadeIn 2s ease-in-out;">Ahmedov Tohirbek</h1>
   <p>
-    <img id="github-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 100px; height: 100px; margin: 0 15px;">
-    <img id="python-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 100px; height: 100px; margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 100px; height: 100px; margin: 0 15px; animation: float 3s ease-in-out infinite;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 100px; height: 100px; margin: 0 15px; animation: float 3s ease-in-out infinite;">
   </p>
 </div>
+
+<!-- CSS Animatsiyalar -->
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes float {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+</style>
 
 <!-- Men haqimda bo'limi -->
 <h2 align="center" style="color: #306998;">About Me</h2>
@@ -28,17 +54,17 @@
 
 <!-- Texnologiyalar va vositalar animatsiyasi -->
 <h2 align="center" style="color: #FFD43B;">Technologies & Tools</h2>
-<p align="center" id="tech-logos">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" style="width: 60px; height: 60px; margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" style="width: 60px; height: 60px; margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" style="width: 60px; height: 60px; margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" style="width: 60px; height: 60px; margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" style="width: 60px; height: 60px; margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" style="width: 60px; height: 60px; margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Logo" style="width: 60px; height: 60px; margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="Celery Logo" style="width: 60px; height: 60px; margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" style="width: 60px; height: 60px; margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx Logo" style="width: 60px; height: 60px; margin: 15px;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="Celery Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out;">
 </p>
 
 <!-- Dinamik loyihalar -->
@@ -65,47 +91,3 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="margin: 10px;">
   </a>
 </p>
-
-<!-- JavaScript uchun kod -->
-<script>
-  // Ism-familiya uchun animatsiya
-  document.addEventListener('DOMContentLoaded', function() {
-    const nameElement = document.getElementById('name');
-    nameElement.style.opacity = 0;
-    setTimeout(() => {
-      nameElement.style.transition = 'opacity 2s';
-      nameElement.style.opacity = 1;
-    }, 500);
-  });
-
-  // GitHub va Python logotiplari uchun animatsiya
-  document.addEventListener('DOMContentLoaded', function() {
-    const githubLogo = document.getElementById('github-logo');
-    const pythonLogo = document.getElementById('python-logo');
-
-    githubLogo.style.transition = 'transform 2s';
-    pythonLogo.style.transition = 'transform 2s';
-
-    setInterval(() => {
-      githubLogo.style.transform = 'translateY(-10px)';
-      pythonLogo.style.transform = 'translateY(10px)';
-      setTimeout(() => {
-        githubLogo.style.transform = 'translateY(0)';
-        pythonLogo.style.transform = 'translateY(0)';
-      }, 1000);
-    }, 2000);
-  });
-
-  // Texnologiyalar logotiplari uchun animatsiya
-  document.addEventListener('DOMContentLoaded', function() {
-    const techLogos = document.querySelectorAll('#tech-logos img');
-
-    techLogos.forEach((logo, index) => {
-      logo.style.opacity = 0;
-      setTimeout(() => {
-        logo.style.transition = `opacity 1s ease-in-out ${index * 0.2}s`;
-        logo.style.opacity = 1;
-      }, 500);
-    });
-  });
-</script>
