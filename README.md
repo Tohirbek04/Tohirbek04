@@ -7,7 +7,7 @@
 
 <!-- Animated GitHub and Python Integration SVG -->
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/github-python-integration-animation.svg" alt="GitHub-Python Integration Animation" width="600px"/>
+  <img src="https://github.com/Tohirbek04/Tohirbek04/raw/main/github-python-integration-animation.svg" alt="GitHub-Python Integration Animation" width="600px"/>
 </div>
 
 <br/>
@@ -66,8 +66,4 @@
 
 <br/>
 
-<h2 align="center">📫 Connect with Me</h2>
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail" alt="Email"></a>
-</div>
+<h2 align="center">📫 Connect with
