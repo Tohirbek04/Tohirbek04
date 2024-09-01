@@ -1,14 +1,14 @@
 <!-- Yuqori qism: Ahmedov Tohirbek zamonaviy animatsiyasi -->
 <div style="text-align: center; font-family: Arial, sans-serif;">
-  <h1 style="font-size: 3em; color: #306998; margin-top: 20px; opacity: 0; transform: translateY(20px); transition: all 2s;">Ahmedov Tohirbek</h1>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 100px; height: 100px; margin: 0 15px; transform: translateY(0); transition: transform 3s; animation: float 3s ease-in-out infinite;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 100px; height: 100px; margin: 0 15px; transform: translateY(0); transition: transform 3s; animation: float 3s ease-in-out infinite;">
+  <h1 style="font-size: 3.5em; color: #306998; margin-top: 20px; opacity: 0; transform: translateY(20px); transition: all 2s;">Ahmedov Tohirbek</h1>
+  <p style="margin-top: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 120px; height: 120px; margin: 0 30px; transform: scale(0.8); transition: transform 1s ease-in-out;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 120px; height: 120px; margin: 0 30px; transform: scale(0.8); transition: transform 1s ease-in-out;">
   </p>
 </div>
 
 <!-- Men haqimda bo'limi -->
-<h2 align="center" style="color: #306998;">About Me</h2>
+<h2 align="center" style="color: #306998; margin-top: 50px;">About Me</h2>
 <p align="center" style="color: #306998; font-size: 1.2em;">
   Hi, I'm Ahmedov Tohirbek, a Python Developer passionate about creating efficient and scalable applications. I love to explore new technologies and continuously improve my skills.
 </p>
