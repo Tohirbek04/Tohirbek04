@@ -6,19 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Web+Developer;20+years+old;From+Uzbekistan" alt="Typing SVG" />
 </p>
 
-## Hey! 👋
-<p align="center">
-  Men Tohirbekman, 20 yoshli veb-dasturchi O'zbekistondan. Men Python, Django, Docker, va boshqalar bilan ishlayman.
-</p>
-
-## 🌐 Ijtimoiy tarmoqlar:
+🌐 Ijtimoiy tarmoqlar:
 <p align="center">
   <a href="https://t.me/ahmedov_dev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
-## 💻 Texnologiyalar:
+💻 Texnologiyalar:
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DjangoREST" />
@@ -32,19 +27,19 @@
 </p>
 
 ## 📈 Statistika:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kam1lovic&show_icons=true&theme=radical" alt="Tohirbek's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kam1lovic&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kam1lovic&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center" style="background: linear-gradient(45deg, #ff0040, #0040ff); padding: 20px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tohirbek04&show_icons=true&theme=radical" alt="Tohirbek's GitHub stats" />
+</div>
+<div align="center" style="background: linear-gradient(45deg, #ff0040, #0040ff); padding: 20px; border-radius: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tohirbek04&theme=radical" alt="GitHub Streak" />
+</div>
+<div align="center" style="background: linear-gradient(45deg, #ff0040, #0040ff); padding: 20px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohirbek04&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 🏆 Mening yutuqlarim:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kam1lovic&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tohirbek04&theme=onedark" alt="Trophies" />
 </p>
 
 ## 📫 Murojaat:
