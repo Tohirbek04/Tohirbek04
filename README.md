@@ -1,39 +1,11 @@
 <!-- Yuqori qism: Ahmedov Tohirbek zamonaviy animatsiyasi -->
 <div style="text-align: center; font-family: Arial, sans-serif;">
-  <h1 style="font-size: 3em; color: #306998; margin-top: 20px; opacity: 0; animation: fadeIn 2s forwards;">Ahmedov Tohirbek</h1>
+  <h1 style="font-size: 3em; color: #306998; margin-top: 20px; opacity: 0; transform: translateY(20px); transition: all 2s;">Ahmedov Tohirbek</h1>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 100px; height: 100px; margin: 0 15px; animation: float 3s ease-in-out infinite;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 100px; height: 100px; margin: 0 15px; animation: float 3s ease-in-out infinite;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 100px; height: 100px; margin: 0 15px; transform: translateY(0); transition: transform 3s; animation: float 3s ease-in-out infinite;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 100px; height: 100px; margin: 0 15px; transform: translateY(0); transition: transform 3s; animation: float 3s ease-in-out infinite;">
   </p>
 </div>
-
-<!-- Inline CSS Animatsiyalar -->
-<p style="display:none;">
-  <style>
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(20px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-
-    @keyframes float {
-      0% {
-        transform: translateY(0);
-      }
-      50% {
-        transform: translateY(-10px);
-      }
-      100% {
-        transform: translateY(0);
-      }
-    }
-  </style>
-</p>
 
 <!-- Men haqimda bo'limi -->
 <h2 align="center" style="color: #306998;">About Me</h2>
@@ -57,16 +29,16 @@
 <!-- Texnologiyalar va vositalar animatsiyasi -->
 <h2 align="center" style="color: #FFD43B;">Technologies & Tools</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="Celery Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx Logo" style="width: 60px; height: 60px; margin: 15px; animation: fadeIn 1.5s ease-in-out forwards;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="Celery Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; transition: opacity 1.5s ease-in-out;">
 </p>
 
 <!-- Dinamik loyihalar -->
