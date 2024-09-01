@@ -1,70 +1,105 @@
-<!-- Yuqori qism: Ahmedov Tohirbek zamonaviy animatsiyasi -->
-<div style="text-align: center; font-family: Arial, sans-serif;">
-  <h1 style="font-size: 3.5em; color: #306998; margin-top: 20px; opacity: 0; transform: translateY(20px); animation: fadeIn 2s ease-in-out forwards;">Ahmedov Tohirbek</h1>
-  <p style="margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 120px; height: 120px; margin: 0 30px; animation: bounceIn 2s ease-in-out forwards, spin 4s linear infinite;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 120px; height: 120px; margin: 0 30px; animation: bounceIn 2s ease-in-out forwards, spin 4s linear infinite;">
-  </p>
+<h1 align="center">
+  Hi there, I'm Ahmedov Tohirbek!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<h3 align="center">
+  🚀 Python Engineer | Open Source Enthusiast | Tech Innovator
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Tohirbek04">
+    <img src="https://img.shields.io/github/followers/Tohirbek04?label=Follow&style=social" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail" alt="Email">
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="600" height="300"/>
 </div>
 
-<!-- Men haqimda bo'limi -->
-<h2 align="center" style="color: #306998; margin-top: 50px;">About Me</h2>
-<p align="center" style="color: #306998; font-size: 1.2em;">
-  Hi, I'm Ahmedov Tohirbek, a Python Developer passionate about creating efficient and scalable applications. I love to explore new technologies and continuously improve my skills.
+<br/>
+
+<h2 align="center">⚙️ GitHub Stats & Languages</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tohirbek04&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohirbek04&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<!-- GitHub Statistika -->
-<h2 align="center" style="color: #FFD43B;">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tohirbek04&show_icons=true&theme=tokyonight" alt="Tohirbek's GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tohirbek04&theme=tokyonight" alt="GitHub Streak Stats" width="45%">
-</p>
+<br/>
 
-<!-- Jonli tahlil grafigi -->
-<h2 align="center" style="color: #FFD43B;">Activity Graph</h2>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Tohirbek04&theme=dracula&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph">
-</p>
+<h2 align="center">📊 Projects</h2>
 
-<!-- Texnologiyalar va vositalar animatsiyasi -->
-<h2 align="center" style="color: #FFD43B;">Technologies & Tools</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="Celery Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx Logo" style="width: 60px; height: 60px; margin: 15px; opacity: 0; animation: fadeIn 1.5s ease-in-out forwards;">
-</p>
-
-<!-- Dinamik loyihalar -->
-<h2 align="center" style="color: #FFD43B;">Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/Tohirbek04/Project1">
-    <img src="https://img.shields.io/badge/Project_1-AI_Chatbot-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Project 1 Badge" style="margin: 10px;">
+  <a href="https://github.com/Tohirbek04/your-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tohirbek04&repo=your-project&theme=radical" alt="Project 1"/>
   </a>
-  <a href="https://github.com/Tohirbek04/Project2">
-    <img src="https://img.shields.io/badge/Project_2-Web_Scraper-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Project 2 Badge" style="margin: 10px;">
+  <a href="https://github.com/Tohirbek04/your-another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tohirbek04&repo=your-another-project&theme=radical" alt="Project 2"/>
   </a>
 </p>
 
-<!-- Ijtimoiy tarmoqlar va aloqa -->
-<h2 align="center" style="color: #FFD43B;">Let's Connect!</h2>
+<br/>
+
+<h2 align="center">🏆 Achievements</h2>
+
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="margin: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tohirbek04&theme=onedark&no-frame=true" alt="Trophies"/>
+</p>
+
+<br/>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" height="200"/>
+</p>
+
+<p align="center">
+  I'm a passionate Python Engineer who loves building robust and scalable solutions. My journey in tech has been filled with exciting challenges and continuous learning.
+</p>
+
+<br/>
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 10px;">
-  </a>
-  <a href="https://twitter.com/your-twitter-username">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="margin: 10px;">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail" alt="Email">
   </a>
 </p>
 
-<!-- Inline CSS Animations (yozilgan qoidalardan foydalanilgan) -->
-<p style="display:none;">@keyframes fadeIn {from {opacity: 0; transform: translateY(20px);} to {opacity: 1; transform: translateY(0);}} @keyframes bounceIn {0%, 20%, 40%, 60%, 80%, 100% {transform: scale(1);} 50% {transform: scale(1.2);}} @keyframes spin {0% {transform: rotate(0deg);} 100% {transform: rotate(360deg);}}</p>
+<br/>
+
+<h2 align="center">💬 Fun Fact</h2>
+
+<p align="center">
+  "I code because it's cheaper than therapy."
+</p>
+
