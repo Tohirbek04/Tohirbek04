@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Ahmedov Tohirbek!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there, I'm Ahmedov Tohirbek! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <h3 align="center">
@@ -103,3 +102,14 @@
   "I code because it's cheaper than therapy."
 </p>
 
+<h2 align="center">⚡ Recent Activity</h2>
+  <div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Tohirbek04&theme=rogue&hide_border=true" alt="Recent Activity"/>
+</div>
+
+<br/>
+
+<h2 align="center">📈 GitHub Streak</h2>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tohirbek04&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
