@@ -1,9 +1,9 @@
 <!-- Yuqori qism: Ahmedov Tohirbek zamonaviy animatsiyasi -->
 <div style="text-align: center; font-family: Arial, sans-serif;">
-  <h1 style="font-size: 3.5em; color: #306998; margin-top: 20px; opacity: 0; transform: translateY(20px); transition: all 2s;">Ahmedov Tohirbek</h1>
+  <h1 style="font-size: 3.5em; color: #306998; margin-top: 20px; animation: fadeIn 2s ease-in-out forwards;">Ahmedov Tohirbek</h1>
   <p style="margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 120px; height: 120px; margin: 0 30px; transform: scale(0.8); transition: transform 1s ease-in-out;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 120px; height: 120px; margin: 0 30px; transform: scale(0.8); transition: transform 1s ease-in-out;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" style="width: 120px; height: 120px; margin: 0 30px; animation: bounceIn 2s ease-in-out, spin 4s linear infinite;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" style="width: 120px; height: 120px; margin: 0 30px; animation: bounceIn 2s ease-in-out, spin 4s linear infinite;">
   </p>
 </div>
 
@@ -65,3 +65,25 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="margin: 10px;">
   </a>
 </p>
+
+<!-- Inline CSS Animations -->
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes bounceIn {
+    0%, 20%, 40%, 60%, 80%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
