@@ -5,8 +5,9 @@
 
 <br/>
 
+<!-- Animated GitHub and Python Integration SVG -->
 <div align="center">
-  <img src="https://github.com/Tohirbek04/Tohirbek04/blob/main/banner.png" alt="Profile Banner"/>
+  <img src="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/github-python-integration-animation.svg" alt="GitHub-Python Integration Animation" width="600px"/>
 </div>
 
 <br/>
