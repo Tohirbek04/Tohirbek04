@@ -1,33 +1,19 @@
 <svg fill="none" viewBox="0 0 800 250" width="800" height="250" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
       <style>
         @keyframes gradientText {
-          0% {
-            background-position: 0% 50%;
-          }
-          50% {
-            background-position: 100% 50%;
-          }
-          100% {
-            background-position: 0% 50%;
-          }
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
         }
         @keyframes pulse {
-          0%, 100% {
-            transform: scale(1);
-          }
-          50% {
-            transform: scale(1.1);
-          }
+          0%, 100% { transform: scale(1); }
+          50% { transform: scale(1.1); }
         }
         @keyframes rotate {
-          0% {
-            transform: rotate(0deg);
-          }
-          100% {
-            transform: rotate(360deg);
-          }
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
         }
         h1 {
           font-family: 'Inter', sans-serif;
@@ -42,27 +28,26 @@
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
-          -webkit-animation: gradientText 3s ease infinite;
           animation: gradientText 3s ease infinite;
         }
+        .icons {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-top: 20px;
+        }
         .icon {
-          width: 80px;
-          height: 80px;
-          margin: 0 15px;
+          width: 60px;
+          height: 60px;
+          margin: 0 10px;
           animation: pulse 2s infinite;
         }
         .rotate {
           animation: rotate 3s linear infinite;
         }
-        .container {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          margin-top: 30px;
-        }
       </style>
       <h1>Tohirbek Ahmedov</h1>
-      <div class="container">
+      <div class="icons">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" class="icon rotate" alt="GitHub Logo"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="icon" alt="Python Logo"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" class="icon rotate" alt="Docker Logo"/>
