@@ -1,13 +1,64 @@
-<!-- Yuqori qism: Ahmedov Tohirbek zamonaviy animatsiyasi -->
-<h1 align="center" style="font-family: Arial, sans-serif;">
-  <span style="display: inline-block; font-size: 3em; font-weight: bold; color: #306998;">Ahmedov Tohirbek</span>
-</h1>
+<!-- CSS animatsiya va formatlash -->
+<style>
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
 
-<!-- GitHub va Python logotiplari animatsiyasi -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="100" height="100" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="100" height="100">
-</p>
+  @keyframes float {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+
+  .header {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    animation: fadeInUp 2s ease-in-out;
+  }
+
+  .header img {
+    width: 150px;
+    height: 150px;
+    margin: 0 20px;
+    animation: float 3s ease-in-out infinite;
+  }
+
+  .header h1 {
+    font-size: 3.5em;
+    color: #306998;
+    margin-top: 20px;
+    animation: fadeInUp 2s ease-in-out;
+  }
+
+  .tech-logo {
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+    animation: float 4s ease-in-out infinite;
+  }
+</style>
+
+<!-- Yuqori qism: Ahmedov Tohirbek zamonaviy animatsiyasi -->
+<div class="header">
+  <h1>Ahmedov Tohirbek</h1>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo">
+  </p>
+</div>
 
 <!-- Men haqimda bo'limi -->
 <h2 align="center" style="color: #306998;">About Me</h2>
@@ -31,12 +82,16 @@
 <!-- Texnologiyalar va vositalar animatsiyasi -->
 <h2 align="center" style="color: #FFD43B;">Technologies & Tools</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" width="60" height="60" style="margin: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" width="60" height="60" style="margin: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" width="60" height="60" style="margin: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="60" height="60" style="margin: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="60" height="60" style="margin: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="60" height="60" style="margin: 20px;">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Logo">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="Celery Logo">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Logo">
+  <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx Logo">
 </p>
 
 <!-- Dinamik loyihalar -->
