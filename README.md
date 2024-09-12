@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="name.svg" alt="Tohirbek Ahmedov" />
 </h1>
-
 <br/>
 
 <h2 align="center">🌟 About Me</h2>
