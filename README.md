@@ -1,9 +1,16 @@
-<h1 align="center">
-  <img src="name.svg" alt="Tohirbek Ahmedov" />
-</h1>
-<br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact" alt="Quote" />
+</p>
 ---
+<h1 align="center">Hi 👋, I'm Tohirbek Ahmedov </h1>
+<h3 align="center">🔧 Python Backend Developer | Python + Django + FastAPI | </h3>
 
+<p align="center">
+  <a href="https://wakatime.com/@Tohirbek04" target="_blank">
+    <img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" alt="Wakatime Badge" />
+  </a>
+</p>
+---
 ### 💻 Tech Stack
 
 **Languages & Databases**  
