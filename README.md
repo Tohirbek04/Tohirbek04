@@ -10,11 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://profile-counter.glitch.me/Tohirbek04" target="_blank">
-    <img src="https://profile-counter.glitch.me/Tohirbek04/count.svg" alt="Profile Views" />
-  </a>
-</p>
+
 
 🧑‍💻 About Me
 
@@ -22,8 +18,8 @@ I am a backend developer with over one year of professional experience at [XCDM 
 
 - 🔭 Currently working on projects at [XCDM Limited](https://xcdm.ai)
 - 💬 Ask me about: **Python, Django, FastAPI, SQL, PostgreSQL, Telegram Bots**
-- 📰 I regularly share insights on [@PythonGuy](https://t.me/PythonGuy)
 - 📫 Reach me at: [tohirbekahmedov00@gmail.com](mailto:tohirbekahmedov00@gmail.com)
+
 
 
 What I Do:
@@ -35,7 +31,8 @@ What I Do:
 - **System Optimization**: Performance tuning and debugging complex applications.
 
 
-### 🌐 Connect with Me
+
+🌐 Connect with Me
 
 <p align="center">
   <a href="https://py_ninja" target="_blank">
@@ -48,6 +45,7 @@ What I Do:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 
 
 💻 Tech Stack
@@ -86,3 +84,19 @@ What I Do:
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm&logoColor=green)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat&logo=visualstudiocode&logoColor=white)
 
+
+### 📊 GitHub Stats
+<p align="center">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=Tohirbek04&data=followers,repositories,stars,commits&theme=dark"/> 
+   <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tohirbek04&theme=radical" />
+  <br /><br />
+  </p>
+
+---
+
+### 👁️ Profile Views
+
+<p align="center">
+   <img src="https://profile-counter.glitch.me/{Tohirbek04}/count.svg" />
+</p>
