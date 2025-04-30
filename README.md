@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact" alt="Quote" />
 </p>
----
 <h1 align="center">Hi 👋, I'm Tohirbek Ahmedov </h1>
 <h3 align="center">🔧 Python Backend Developer | Python + Django + FastAPI | </h3>
 
@@ -10,8 +9,48 @@
     <img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" alt="Wakatime Badge" />
   </a>
 </p>
----
-### 💻 Tech Stack
+
+<p align="center">
+  <a href="https://profile-counter.glitch.me/Tohirbek04" target="_blank">
+    <img src="https://profile-counter.glitch.me/Tohirbek04/count.svg" alt="Profile Views" />
+  </a>
+</p>
+
+🧑‍💻 About Me
+
+I am a backend developer with over one year of professional experience at [XCDM Limited](https://xcdm.ai)., where I have contributed to a variety of projects using Python as my primary programming language. My role involves building scalable backend systems, integrating APIs, and ensuring efficient data processing. I am passionate about clean code, performance optimization, and delivering reliable solutions that support real-world business needs.
+
+- 🔭 Currently working on projects at [XCDM Limited](https://xcdm.ai)
+- 💬 Ask me about: **Python, Django, FastAPI, SQL, PostgreSQL, Telegram Bots**
+- 📰 I regularly share insights on [@PythonGuy](https://t.me/PythonGuy)
+- 📫 Reach me at: [tohirbekahmedov00@gmail.com](mailto:tohirbekahmedov00@gmail.com)
+
+
+What I Do:
+
+- **Backend Development**: Building scalable and efficient systems with Python (Django, FastAPI), PostgreSQL.
+- **API Development**: Designing and deploying robust APIs.
+- **DevOps**: Managing CI/CD pipelines, containerization with Docker, and cloud deployment.
+- **Bot Development**: Creating Telegram bots using Aiogram and integrating them into scalable systems.
+- **System Optimization**: Performance tuning and debugging complex applications.
+
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://py_ninja" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/tohirbek-ahmedov-863bb031a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tohirbekahmedov00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+
+💻 Tech Stack
 
 **Languages & Databases**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -47,4 +86,3 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm&logoColor=green)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat&logo=visualstudiocode&logoColor=white)
 
----
