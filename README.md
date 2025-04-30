@@ -10,9 +10,9 @@
   </a>
 </p>
 
+---
 
-
-🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 I am a backend developer with over one year of professional experience at [XCDM Limited](https://xcdm.ai)., where I have contributed to a variety of projects using Python as my primary programming language. My role involves building scalable backend systems, integrating APIs, and ensuring efficient data processing. I am passionate about clean code, performance optimization, and delivering reliable solutions that support real-world business needs.
 
@@ -20,9 +20,9 @@ I am a backend developer with over one year of professional experience at [XCDM 
 - 💬 Ask me about: **Python, Django, FastAPI, SQL, PostgreSQL, Telegram Bots**
 - 📫 Reach me at: [tohirbekahmedov00@gmail.com](mailto:tohirbekahmedov00@gmail.com)
 
+---
 
-
-What I Do:
+### What I Do:
 
 - **Backend Development**: Building scalable and efficient systems with Python (Django, FastAPI), PostgreSQL.
 - **API Development**: Designing and deploying robust APIs.
@@ -30,9 +30,9 @@ What I Do:
 - **Bot Development**: Creating Telegram bots using Aiogram and integrating them into scalable systems.
 - **System Optimization**: Performance tuning and debugging complex applications.
 
+---
 
-
-🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://py_ninja" target="_blank">
@@ -46,9 +46,9 @@ What I Do:
   </a>
 </p>
 
+---
 
-
-💻 Tech Stack
+### 💻 Tech Stack
 
 **Languages & Databases**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -84,6 +84,7 @@ What I Do:
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm&logoColor=green)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat&logo=visualstudiocode&logoColor=white)
 
+---
 
 ### 📊 GitHub Stats
 <p align="center">
