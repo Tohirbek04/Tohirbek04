@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@Tohirbek04" target="_blank">
-    <img src="https://wakatime.com/badge/user/waka_2a7ce37e-d900-49ca-981b-b7e3eb012ea7.svg" alt="Wakatime Badge" />
+    <img src="https://wakatime.com/badge/user/e2c45463-29d2-4a41-9dd9-1c3c06616423.svg" alt="Wakatime Badge" />
   </a>
 </p>
 
