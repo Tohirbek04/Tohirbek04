@@ -35,7 +35,7 @@ I am a backend developer with over one year of professional experience at [XCDM 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://py_ninja" target="_blank">
+  <a href="https://ahmedov_py" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://linkedin.com/in/tohirbek-ahmedov-863bb031a" target="_blank">
