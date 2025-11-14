@@ -96,4 +96,8 @@ I am a backend developer with over one year of professional experience at [XCDM 
 
 ### 📊 WakaTime
 
-![WakaTime Stats](https://wakatime.com/share/@Tohirbek/25e5ba45-036b-4b03-b769-702b3df96471.svg)
+<img
+  src="https://wakatime.com/share/@Tohirbek/25e5ba45-036b-4b03-b769-702b3df96471.svg"
+  alt="WakaTime Stats"
+  width=30%;
+/>
