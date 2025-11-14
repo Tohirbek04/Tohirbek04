@@ -96,8 +96,33 @@ I am a backend developer with over one year of professional experience at [XCDM 
 
 ### 📊 WakaTime
 
-<img
-  src="https://wakatime.com/share/@Tohirbek/25e5ba45-036b-4b03-b769-702b3df96471.svg"
-  alt="WakaTime Stats"
-  style="width: 40%; height: 30%; object-fit: cover;"
-/>
+<div
+  style="
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  "
+>
+  <div
+    style="
+      width: 50%;  /* xohlasang o‘zgartir */
+      height: 30%;      /* balandlik mana shu boshqaradi */
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <img
+      src="https://wakatime.com/share/@Tohirbek/25e5ba45-036b-4b03-b769-702b3df96471.svg"
+      alt="WakaTime Stats"
+      style="
+        width: 50%;  /* xohlasang o‘zgartir */
+        height: 30%;
+        object-fit: cover;
+        object-position: center;
+      "
+    />
+  </div>
+</div>
+
