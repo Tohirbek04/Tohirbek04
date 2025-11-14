@@ -4,12 +4,6 @@
 <h1 align="center">Hi 👋, I'm Tohirbek Ahmedov </h1>
 <h3 align="center">🔧 Python Backend Developer | Python + Django + FastAPI | </h3>
 
-<p align="center">
-  <a href="https://wakatime.com/@Tohirbek04" target="_blank">
-    <img src="https://wakatime.com/badge/user/578cf8d5-aeac-4d59-9447-4819a19adea3.svg" alt="Wakatime Badge" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -100,8 +94,6 @@ I am a backend developer with over one year of professional experience at [XCDM 
 
 ---
 
-### 👁️ Profile Views
+### 📊 WakaTime
 
-<p align="center">
-   <img src="https://profile-counter.glitch.me/{Tohirbek04}/count.svg" />
-</p>
+<figure><embed src="https://wakatime.com/share/@Tohirbek/9573c1a8-efbf-45bf-a12d-e5d61df5e905.svg"></embed></figure>
