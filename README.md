@@ -97,6 +97,8 @@ I am a backend developer with over one year of professional experience at [XCDM 
 ### 📊 WakaTime
 
 <p align="center">
-  <img src="assets/wakatime-stats.svg" alt="Wakatime stats" width="50%" />
+  <img src="https://wakatime.com/share/@Tohirbek/25e5ba45-036b-4b03-b769-702b3df96471.svg" 
+       alt="Wakatime stats" 
+       width="50%" />
 </p>
 
